@@ -44,7 +44,7 @@ GPA: `3.89`
 
 ## 🔭 Research & Projects
 ### DataDriven [🔗](https://about.datadrivenucsb.com/)
-#### Software Engineer \& PCB Designer (Team Lead)
+#### Software Engineer & PCB Designer (Team Lead)
 
 - Developed microcontroller firmware based on Zephyr RTOS to interface with peripherals that collects vehicle diagnostic data, fetches GPS data, and uploads the marshalled UDP datagram over LTE-M.
 - Designed the PCB layout for a 4-layer custom PCB including on-board RF circuitry (LTE-M & GPS).
